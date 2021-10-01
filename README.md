@@ -1,4 +1,4 @@
-# ZERO-TO-FAANG-ASSIGNMENT-ArraySOLUTION
+# ZERO-TO-FAANG-ASSIGNMENT-Array-SOLUTION
 
 
 [1. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/submissions/)
